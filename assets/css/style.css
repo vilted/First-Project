@@ -703,15 +703,15 @@ text-decoration-line: underline;
         font-size: 1rem;
     }
     @-moz-document url-prefix() {
-    .transparent-frames {
-        width: 13vh;
-        height: 13vh;
+        .transparent-frames {
+            width: 13vh;
+            height: 13vh;
+        }
+        .frames {
+            width: 11vh;
+            height: 11vh;
+        }
     }
-    .frames {
-        width: 11vh;
-        height: 11vh;
-    }
-}
 }
 
 
